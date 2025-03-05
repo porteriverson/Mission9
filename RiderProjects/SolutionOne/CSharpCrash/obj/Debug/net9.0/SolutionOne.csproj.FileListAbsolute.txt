@@ -1,0 +1,14 @@
+/Users/porter/RiderProjects/SolutionOne/SolutionOne/bin/Debug/net9.0/SolutionOne
+/Users/porter/RiderProjects/SolutionOne/SolutionOne/bin/Debug/net9.0/SolutionOne.deps.json
+/Users/porter/RiderProjects/SolutionOne/SolutionOne/bin/Debug/net9.0/SolutionOne.runtimeconfig.json
+/Users/porter/RiderProjects/SolutionOne/SolutionOne/bin/Debug/net9.0/SolutionOne.dll
+/Users/porter/RiderProjects/SolutionOne/SolutionOne/bin/Debug/net9.0/SolutionOne.pdb
+/Users/porter/RiderProjects/SolutionOne/SolutionOne/obj/Debug/net9.0/SolutionOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/porter/RiderProjects/SolutionOne/SolutionOne/obj/Debug/net9.0/SolutionOne.AssemblyInfoInputs.cache
+/Users/porter/RiderProjects/SolutionOne/SolutionOne/obj/Debug/net9.0/SolutionOne.AssemblyInfo.cs
+/Users/porter/RiderProjects/SolutionOne/SolutionOne/obj/Debug/net9.0/SolutionOne.csproj.CoreCompileInputs.cache
+/Users/porter/RiderProjects/SolutionOne/SolutionOne/obj/Debug/net9.0/SolutionOne.dll
+/Users/porter/RiderProjects/SolutionOne/SolutionOne/obj/Debug/net9.0/refint/SolutionOne.dll
+/Users/porter/RiderProjects/SolutionOne/SolutionOne/obj/Debug/net9.0/SolutionOne.pdb
+/Users/porter/RiderProjects/SolutionOne/SolutionOne/obj/Debug/net9.0/SolutionOne.genruntimeconfig.cache
+/Users/porter/RiderProjects/SolutionOne/SolutionOne/obj/Debug/net9.0/ref/SolutionOne.dll
