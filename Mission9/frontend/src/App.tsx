@@ -100,7 +100,6 @@ function TeamList({ teams }: { teams: TeamType[] }) {
       {teams.map((team) => (
         <Team {...team} />
       ))}
-      ;
     </>
   );
 }
